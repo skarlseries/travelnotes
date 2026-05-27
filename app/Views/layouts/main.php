@@ -38,7 +38,7 @@ $username = Session::isLoggedIn() ? Session::user()['username'] : 'Гость';
 <header>
     <div class="header-container">
         <div class="logo">
-            <img src="/public/images/logo_mospolytech.tif" alt="Московский политех">
+            <img src="/travelnotes/public/images/logo_mospolytech.tif" alt="Московский политех">
             <span>TravelNotes</span>
         </div>
         
